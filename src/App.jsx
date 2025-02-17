@@ -4,8 +4,6 @@ import './App.css'
 import Details from './components/Details/details'
 
 function App() {
-  const [count, setCount] = useState(0)
-
   return (
     <>
       <Slider/>
